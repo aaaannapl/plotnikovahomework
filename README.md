@@ -1,3 +1,2 @@
 # plotnikovahomework
-###for homoworks
-####hug
+ ### kot
